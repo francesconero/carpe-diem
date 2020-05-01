@@ -1,0 +1,23 @@
+{
+  "name": "carpe-diem",
+  "version": "0.1.0",
+  "description": "Simple personal task management and time-tracking tool that helps you appear multitasking even if you only work on one thing at the time",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francesconero/carpe-diem.git"
+  },
+  "keywords": [
+    "time-tracking",
+    "task-manager"
+  ],
+  "author": "Francesco Nero",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/francesconero/carpe-diem/issues"
+  },
+  "homepage": "https://github.com/francesconero/carpe-diem#readme"
+}
